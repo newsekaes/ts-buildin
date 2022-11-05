@@ -3,6 +3,6 @@
 - [ ] 2. TypeScript-Challenge
   > https://github.com/type-challenges/type-challenges
   - [X] Easy
-  - [ ] Medium
+  - [X] Medium
   - [ ] Hard
   - [ ] Extreme
